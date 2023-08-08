@@ -116,7 +116,7 @@ db.once('open', () => {
 //   }
 // });
 app.use("/",(req,res)=>{
-  res.json({message:"hello my name is dhruvisha"})
+  res.json({message:"hello my name is jasmi"})
 })
 
 app.listen(port, function (error) {
